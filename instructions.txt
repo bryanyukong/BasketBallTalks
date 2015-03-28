@@ -1,0 +1,5 @@
+﻿1.) Punta kang content folder, tas open mo site.css. Copy mo
+yun. Then, yun yung apaste mo sa site.css na gagawwin mong
+panibago.
+2.)Tas yung laman ng index.chtml(From Views folder).
+And _Layout.chtml(from shared folder ng Views folder.)
